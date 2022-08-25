@@ -6,7 +6,7 @@
         "telegram",
         "bot"
     ],
-    "repository": "https://github.com/vasusen-code/SaveRestrictedContentBot",
+    "repository": "https://github.com/kd2929/SaveRestrictedContentBot",
     "stack": "container",
     "success_url": "https://t.me/xzmmmmdd_bot",
     "env": {
